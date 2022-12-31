@@ -12,19 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
   m_Name: RemoteConfigDataStoreAsset
   m_EditorClassIdentifier: 
-  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6d7f88ce-7ab7-485b-b7e8-cebbf22fc6bf\"\r\n   
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a4b38f9e-7943-4552-9085-f836a266414a\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"enable\",\r\n      \"type\": \"bool\",\r\n     
     \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
-    \"0a82aaed-a30d-4fda-8242-e895f0e5f8f3\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"79edfcd5-6964-4afd-87de-de36ea4e4c45\"\r\n    },\r\n    \"rs\": {\r\n     
     \"key\": \"target\",\r\n      \"type\": \"string\",\r\n      \"value\": \"\"\r\n   
     }\r\n  }\r\n]"
-  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6d7f88ce-7ab7-485b-b7e8-cebbf22fc6bf\"\r\n   
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a4b38f9e-7943-4552-9085-f836a266414a\"\r\n   
     },\r\n    \"rs\": {\r\n      \"key\": \"enable\",\r\n      \"type\": \"bool\",\r\n     
     \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
-    \"0a82aaed-a30d-4fda-8242-e895f0e5f8f3\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"79edfcd5-6964-4afd-87de-de36ea4e4c45\"\r\n    },\r\n    \"rs\": {\r\n     
     \"key\": \"target\",\r\n      \"type\": \"string\",\r\n      \"value\": \"\"\r\n   
     }\r\n  }\r\n]"
-  _environments: "[\r\n  {\r\n    \"projectId\": \"aa3f0f44-76d0-466b-b7d6-e34fd0555689\",\r\n   
-    \"name\": \"production\",\r\n    \"id\": \"a9c67b0f-b444-4232-ae82-5cbe00eaf602\",\r\n   
-    \"isDefault\": true,\r\n    \"createdAt\": \"2022-12-30T13:35:43Z\",\r\n    \"updatedAt\":
-    \"2022-12-30T13:35:43Z\"\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"c942d20c-4f99-4c7f-a4d0-25a49bf4429e\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"0af54a02-62d7-4b7f-b2f3-aa28d6027d38\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2022-12-31T15:49:26Z\",\r\n    \"updatedAt\":
+    \"2022-12-31T15:49:26Z\"\r\n  }\r\n]"
